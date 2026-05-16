@@ -223,7 +223,7 @@ This project helped us gain hands on experience in:
 
 # Contributors
 
-* Duhesh Sarkar
+* Aaryan Rana
 * Ved Waghmare
 * Pushkar Mhatre
 * Harsh Dalal
