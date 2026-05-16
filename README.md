@@ -1,4 +1,3 @@
-````md
 # QuizCraft AI
 
 AI Powered PDF to Quiz Generator built using Python and Google Gemini API.
@@ -11,26 +10,26 @@ Developed as a second semester Python coursework project.
 
 # Features
 
-- PDF text extraction using pdfplumber
-- AI generated MCQs using Google Gemini API
-- Tkinter based desktop GUI
-- Command Line Interface support
-- Quiz deadlines and validation
-- Unique 6 character Quiz IDs
-- Real time leaderboard system
-- Local JSON and CSV based storage
-- Modular Python architecture
+* PDF text extraction using pdfplumber
+* AI generated MCQs using Google Gemini API
+* Tkinter based desktop GUI
+* Command Line Interface support
+* Quiz deadlines and validation
+* Unique 6 character Quiz IDs
+* Real time leaderboard system
+* Local JSON and CSV based storage
+* Modular Python architecture
 
 ---
 
 # Tech Stack
 
-- Python
-- Tkinter
-- Google Gemini API
-- pdfplumber
-- JSON
-- CSV
+* Python
+* Tkinter
+* Google Gemini API
+* pdfplumber
+* JSON
+* CSV
 
 ---
 
@@ -54,7 +53,7 @@ QuizCraft-AI/
 ├── run.py
 ├── stor_age.py
 └── .env
-````
+```
 
 ---
 
@@ -234,7 +233,3 @@ This project helped us gain hands on experience in:
 # Disclaimer
 
 This project was developed for educational and learning purposes as part of a college Python coursework project.
-
-```
-```
-
