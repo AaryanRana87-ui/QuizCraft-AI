@@ -111,15 +111,30 @@ Handles local storage using JSON and CSV files.
 ---
 
 # GUI Screenshots
-
-Add your GUI screenshots here.
-
-Example:
-
 ```md
+## GUI Screenshots
 
+### Home Screen
+![Home Screen](images/QuizCraft_.jpeg)
+
+### Create Quiz
+![Create Quiz](images/creating%20quiz.png)
+
+### Attempt Quiz
+![Attempt Quiz](images/attempting%20quiz.png)
+
+### Quiz Interface
+![Quiz Interface](images/How%20Does%20a%20Quiz%20look.png)
+
+### Quiz Completion
+![Quiz Completion](images/Quiz%20Completion.png)
+
+### Leaderboard
+![Leaderboard](images/Quiz%20Leader%20Board.png)
+
+### Quiz Created Successfully
+![Quiz Created](images/quiz%20created.png)
 ```
-
 ---
 
 # Installation
