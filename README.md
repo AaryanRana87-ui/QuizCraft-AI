@@ -1,3 +1,4 @@
+````md
 # QuizCraft AI
 
 AI Powered PDF to Quiz Generator built using Python and Google Gemini API.
@@ -10,26 +11,26 @@ Developed as a second semester Python coursework project.
 
 # Features
 
-* PDF text extraction using `pdfplumber`
-* AI generated MCQs using Google Gemini API
-* Tkinter based desktop GUI
-* Command Line Interface support
-* Quiz deadlines and validation
-* Unique 6 character Quiz IDs
-* Real time leaderboard system
-* Local JSON and CSV based storage
-* Modular Python architecture
+- PDF text extraction using pdfplumber
+- AI generated MCQs using Google Gemini API
+- Tkinter based desktop GUI
+- Command Line Interface support
+- Quiz deadlines and validation
+- Unique 6 character Quiz IDs
+- Real time leaderboard system
+- Local JSON and CSV based storage
+- Modular Python architecture
 
 ---
 
 # Tech Stack
 
-* Python
-* Tkinter
-* Google Gemini API
-* pdfplumber
-* JSON
-* CSV
+- Python
+- Tkinter
+- Google Gemini API
+- pdfplumber
+- JSON
+- CSV
 
 ---
 
@@ -53,7 +54,7 @@ QuizCraft-AI/
 ├── run.py
 ├── stor_age.py
 └── .env
-```
+````
 
 ---
 
@@ -69,7 +70,7 @@ Tkinter based desktop GUI containing quiz creation, quiz attempt, and leaderboar
 
 ## pdf_extraction.py
 
-Extracts selectable text from PDF files using `pdfplumber`.
+Extracts selectable text from PDF files using pdfplumber.
 
 ## clean_text.py
 
@@ -111,30 +112,35 @@ Handles local storage using JSON and CSV files.
 ---
 
 # GUI Screenshots
-```md
-## GUI Screenshots
 
 ### Home Screen
-![Home Screen](images/QuizCraft_.jpeg)
+
+![Home Screen](images/home.png)
 
 ### Create Quiz
-![Create Quiz](images/creating%20quiz.png)
+
+![Create Quiz](images/create_quiz.png)
 
 ### Attempt Quiz
-![Attempt Quiz](images/attempting%20quiz.png)
+
+![Attempt Quiz](images/attempt_quiz.png)
 
 ### Quiz Interface
-![Quiz Interface](images/How%20Does%20a%20Quiz%20look.png)
+
+![Quiz Interface](images/quiz_screen.png)
 
 ### Quiz Completion
-![Quiz Completion](images/Quiz%20Completion.png)
+
+![Quiz Completion](images/completion.png)
 
 ### Leaderboard
-![Leaderboard](images/Quiz%20Leader%20Board.png)
+
+![Leaderboard](images/leaderboard.png)
 
 ### Quiz Created Successfully
-![Quiz Created](images/quiz%20created.png)
-```
+
+![Quiz Created](images/quiz_created.png)
+
 ---
 
 # Installation
@@ -218,7 +224,7 @@ This project helped us gain hands on experience in:
 
 # Contributors
 
-* Aaryan Rana
+* Duhesh Sarkar
 * Ved Waghmare
 * Pushkar Mhatre
 * Harsh Dalal
@@ -228,3 +234,7 @@ This project helped us gain hands on experience in:
 # Disclaimer
 
 This project was developed for educational and learning purposes as part of a college Python coursework project.
+
+```
+```
+
