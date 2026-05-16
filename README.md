@@ -117,9 +117,7 @@ Add your GUI screenshots here.
 Example:
 
 ```md
-![Home Screen](images/home.png)
-![Quiz Screen](images/quiz.png)
-![Leaderboard](images/dashboard.png)
+
 ```
 
 ---
